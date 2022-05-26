@@ -6,9 +6,7 @@
     {
       "key": "wear",
       "value": {
-        "boneAttachment": "head",
-        "position": [0, 0.1, 0],
-        "quaternion": [0, 0, 0, 1]
+        "skinnedMesh": "helm"
       }
     }
   ]
